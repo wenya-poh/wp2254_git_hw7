@@ -1,0 +1,8 @@
+K&W
+
+Roses are red
+Violets are blue
+For this classifier
+A single feature will do
+
+K>
